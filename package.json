@@ -1,0 +1,30 @@
+{
+  "name": "dev-proxy",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "devDependencies": {
+    "express": "^4.17.3",
+    "http-proxy-middleware": "^2.0.3"
+  },
+  "description": "Dev Proxy",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alonl/dev-proxy-example.git"
+  },
+  "keywords": [
+    "dev",
+    "proxy",
+    "dev-tool",
+    "express"
+  ],
+  "author": "Alon Lavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alonl/dev-proxy-example/issues"
+  },
+  "homepage": "https://github.com/alonl/dev-proxy-example#readme"
+}
